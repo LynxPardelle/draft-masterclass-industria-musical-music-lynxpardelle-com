@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-industria-musical.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "La industria musical | Lynx Pardelle",
+    "description": "Entiende quién interviene antes y después de que una canción llegue al público. Recorre la evolución del sector y ubica a las empresas y profesionales en el proceso de un lanzamiento.",
+    "canonical": "https://masterclass-industria-musical.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-negocio.webp"
+    }
+  }
+}
