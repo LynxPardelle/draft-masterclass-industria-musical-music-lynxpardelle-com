@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "La industria musical | Lynx Pardelle",
-    "description": "Entiende quién interviene antes y después de que una canción llegue al público. Recorre la evolución del sector y ubica a las empresas y profesionales en el proceso de un lanzamiento.",
+    "title": "Masterclass de industria musical y sus profesionales | Lynx Pardelle",
+    "description": "Recorre la evolución de la industria musical e identifica empresas y profesiones. Ubica quién interviene en las distintas etapas de un lanzamiento.",
     "canonical": "https://masterclass-industria-musical.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-industria-musical-r2-68b8c5d5fd0e297a.webp",
+      "title": "Masterclass de industria musical y sus profesionales | Lynx Pardelle",
+      "description": "Recorre la evolución de la industria musical e identifica empresas y profesiones. Ubica quién interviene en las distintas etapas de un lanzamiento.",
+      "url": "https://masterclass-industria-musical.music.lynxpardelle.com/",
+      "imageAlt": "Archivos de vinilos y equipo de una disquera independiente."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de industria musical y sus profesionales | Lynx Pardelle",
+      "description": "Recorre la evolución de la industria musical e identifica empresas y profesiones. Ubica quién interviene en las distintas etapas de un lanzamiento.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-industria-musical-r2-68b8c5d5fd0e297a.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-industria-musical.music.lynxpardelle.com/#webpage",
+        "name": "La industria musical",
+        "description": "Recorre la evolución de la industria musical e identifica empresas y profesiones. Ubica quién interviene en las distintas etapas de un lanzamiento.",
+        "url": "https://masterclass-industria-musical.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-industria-musical.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-industria-musical.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "La industria musical",
+        "description": "Recorre la evolución de la industria musical e identifica empresas y profesiones. Ubica quién interviene en las distintas etapas de un lanzamiento.",
+        "url": "https://masterclass-industria-musical.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-industria-musical-r2-68b8c5d5fd0e297a.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-industria-musical.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
